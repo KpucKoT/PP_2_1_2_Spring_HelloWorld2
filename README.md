@@ -1,1 +1,1 @@
-Here's the difference between singleyon ahd prototype beans
+Here's the difference between singleton ahd prototype beans
